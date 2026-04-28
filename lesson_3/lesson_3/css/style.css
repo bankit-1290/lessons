@@ -1,0 +1,126 @@
+* {
+   color: red;
+}
+
+h1 {
+   color: black;
+}
+
+h2 {
+   color: yellow;
+}
+
+h3 {
+   color: greenyellow;
+}
+
+p {
+   color: brown;
+}
+
+a {
+   color: rgb(90, 233, 209);
+}
+
+mark {
+   color: firebrick;
+}
+
+li {
+   color: lightgreen;
+}
+
+
+#top {
+   color: pink;
+}
+
+.header__title {
+   color: blue;
+}
+
+.header__nav > a {
+   color: green;
+}
+
+.main h2 {
+   color: khaki;
+}
+
+
+.article__content * {
+   color: hotpink;
+}
+
+[target="_blank"] {
+   color: gold;
+}
+
+.main__subtitle ~ h2 {
+   color: red;
+}
+
+.article__companies > h3 {
+   color: black;
+}
+
+.article__companies ~ .title {
+   color: tomato;
+}
+
+.companies__sutitle ~ .text {
+   color: green;
+}
+
+.tel,
+.mail {
+   color: darkorange;
+}
+
+.source__link.link {
+   color: indigo;
+}
+
+.itua h1 {
+   color: indianred;
+}
+
+.main__itua .content .article h2 + p {
+   color: black;
+} 
+
+.main__itua .content .article p + p {
+   color: grey;
+}
+
+.main__itua .content li {
+   color: blue;
+}
+
+.main__itua .content li + li {
+   color: navajowhite;
+}
+
+.footer__itua .link {
+   color: pink;
+}
+
+.cisco * {
+   color: black;
+}
+
+.header__cisco .header__article .title {
+   color: darkorange;
+}
+
+.cisco .main .content p {
+   color: brown;
+}
+
+.cisco .main .content div > .text {
+   color: blueviolet;
+}
+
+.cisco .footer .contacts > a {
+   color: darkolivegreen;
+}
